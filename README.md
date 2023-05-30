@@ -1,9 +1,10 @@
 ### Hi there 👋 i'm Onyeka Joshua Tuma
 
-- 🔭 I’m currently working on improving my skills
+- 🔭 Working on improving my skills
 - 🌱 I’m currently learning HTML AND CSS
-- 🤔 I’m looking for help with KOTLIN AND ANDROID DEVELOPMENT
-- 📫 How to reach me: joshuaonyeka2020@gmail.com
+- 🤔 Looking for help with KOTLIN AND ANDROID DEVELOPMENT
+- 📫 Contact Me: joshuaonyeka2020@gmail.com
+-                 wa.me/09063482183
 - 😄 Pronouns: He
 - ⚡ Fun fact: Loves traveling, trying new dishes and programming
 
